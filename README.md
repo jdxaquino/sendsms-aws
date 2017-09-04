@@ -1,8 +1,8 @@
 # sendsms-aws
 Send SMS Messages with Arduino + Shield GSM
 
-Este proyecto fue desarrollado para el Servicio de Clima Espacial México
+This project was developed for the Mexico Space Weather Service (SCiESMEX-UNAM)
 
-Tiene como objetivos la automatización de avisos mediante el cambio de estados de scripts programados en python.
+It aims to automate warnings by changing states of scripts programmed in python.
 
-Los detalles continuarán...
+Details will continue ...
